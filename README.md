@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Olá, me Mateus Zamorano! 😁👨‍💻 Tenho 25 anos, sou entusiasta da tecnologia, focado na área de jogos/programação, criativo, inovador, adoro desafios, e principalmente resolvê-los. Ah, e sou Desenvolvedor Iniciante de Software, possuo conhecimentos em Python, Java e SQL. Repositório: https://github.com/mateuszamorano?tab=repositories
+
 <!--
 **mateuszamorano/mateuszamorano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
